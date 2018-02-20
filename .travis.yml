@@ -5,3 +5,6 @@ php:
   - 5.5
 
 script: true
+
+notifications:
+  slack: codechants:ogQHApKvwHOrai4twCf8SySE
